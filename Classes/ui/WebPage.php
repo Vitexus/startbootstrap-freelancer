@@ -17,5 +17,8 @@ class WebPage extends \Ease\TWB4\WebPage
         parent::__construct($pageTitle);
         $this->includeCss('css/freelancer.css');
         $this->body->setTagId('page-top');
+        
+        $this->addItem( new MainMenu('mainmenu', _('Start Bootstrap')) );
+        
     }
 }
