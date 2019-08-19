@@ -1,0 +1,20 @@
+{
+    "name": "vitexsoftware/startbootstrap-freelancer",
+    "description": "Description of project startbootstrap-freelancer.",
+    "authors": [
+        {
+            "name": "Vitex",
+            "email": "info@vitexsoftware.cz"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "vitexsoftware/ease-twbootstrap4-widgets": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ease\\Freelancer\\": "Classes",
+            "Ease\\Freelancer\\ui\\": "Classes/ui/"
+        }
+    }
+}
