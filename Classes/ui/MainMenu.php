@@ -20,7 +20,7 @@ class MainMenu extends \Ease\TWB4\Navbar
      */
     function __construct($name = null, $brand = null, $properties = null)
     {
-        parent::__construct($brand, $properties);
+        parent::__construct($brand, 'navBar',  $properties);
         $this->addTagClass('navbar-expand-lg bg-secondary text-uppercase fixed-top');
 
         $this->addMenuItem(new \Ease\Html\ATag('umim.php', _('Portfolio')),'left');

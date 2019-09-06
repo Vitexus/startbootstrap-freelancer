@@ -262,12 +262,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/VitexSoftware/ease-core.git",
-                "reference": "98e7c7bbd943179b78b21174627083b9b28116df"
+                "reference": "a2f826a61c679498eee20aae6708b91f2c9f66a1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/VitexSoftware/ease-core/zipball/98e7c7bbd943179b78b21174627083b9b28116df",
-                "reference": "98e7c7bbd943179b78b21174627083b9b28116df",
+                "url": "https://api.github.com/repos/VitexSoftware/ease-core/zipball/a2f826a61c679498eee20aae6708b91f2c9f66a1",
+                "reference": "a2f826a61c679498eee20aae6708b91f2c9f66a1",
                 "shasum": ""
             },
             "require": {
@@ -306,7 +306,7 @@
             ],
             "description": "An PHP Framework for writing Applications",
             "homepage": "http://v.s.cz/ease.php",
-            "time": "2019-08-18T21:06:04+00:00"
+            "time": "2019-08-25T18:03:58+00:00"
         },
         {
             "name": "vitexsoftware/ease-html",
@@ -314,12 +314,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/VitexSoftware/ease-html.git",
-                "reference": "c1779ef67685976326fb7dcf81f28e413ffc7d0e"
+                "reference": "72d788541939021ae92083b023ae417caa5244fd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/VitexSoftware/ease-html/zipball/c1779ef67685976326fb7dcf81f28e413ffc7d0e",
-                "reference": "c1779ef67685976326fb7dcf81f28e413ffc7d0e",
+                "url": "https://api.github.com/repos/VitexSoftware/ease-html/zipball/72d788541939021ae92083b023ae417caa5244fd",
+                "reference": "72d788541939021ae92083b023ae417caa5244fd",
                 "shasum": ""
             },
             "require": {
@@ -346,7 +346,7 @@
                 }
             ],
             "description": "Set of HTML rendering objects",
-            "time": "2019-08-18T23:59:18+00:00"
+            "time": "2019-08-25T22:10:31+00:00"
         },
         {
             "name": "vitexsoftware/ease-twbootstrap4",
