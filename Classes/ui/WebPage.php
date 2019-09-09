@@ -37,12 +37,13 @@ class WebPage extends \Ease\TWB4\WebPage
         $this->head->addItem(new MetaTag('author', ''));
 
         $this->head->addItem(new Comment('Custom fonts for this theme'));
-        
+
         $this->includeCss('vendor/fontawesome-free/css/all.min.css');
         $this->includeCss('https://fonts.googleapis.com/css?family=Montserrat:400,700');
         $this->includeCss('https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic');
 
-        $this->addItem([new Comment('Navigation'), new MainMenu('mainmenu',_('Start Bootstrap'), ['id' => 'mainNav'])]);
+        $this->addItem([new Comment('Navigation'), new MainMenu('mainmenu',
+                _('Start Bootstrap'), ['id' => 'mainNav'])]);
         $this->addItem([new Comment('Masthead'), new Masthead()]);
     }
 }

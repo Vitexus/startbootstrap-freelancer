@@ -262,12 +262,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/VitexSoftware/ease-core.git",
-                "reference": "a2f826a61c679498eee20aae6708b91f2c9f66a1"
+                "reference": "3277c0dc653b80eeeda9e952178ff7c5e89ffb5c"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/VitexSoftware/ease-core/zipball/a2f826a61c679498eee20aae6708b91f2c9f66a1",
-                "reference": "a2f826a61c679498eee20aae6708b91f2c9f66a1",
+                "url": "https://api.github.com/repos/VitexSoftware/ease-core/zipball/3277c0dc653b80eeeda9e952178ff7c5e89ffb5c",
+                "reference": "3277c0dc653b80eeeda9e952178ff7c5e89ffb5c",
                 "shasum": ""
             },
             "require": {
@@ -283,8 +283,7 @@
                 "jakub-onderka/php-console-highlighter": "*",
                 "jakub-onderka/php-parallel-lint": "*",
                 "php-coveralls/php-coveralls": "*",
-                "phpunit/phpunit": "*",
-                "squizlabs/php_codesniffer": "*"
+                "phpunit/phpunit": "*"
             },
             "type": "library",
             "autoload": {
@@ -306,7 +305,7 @@
             ],
             "description": "An PHP Framework for writing Applications",
             "homepage": "http://v.s.cz/ease.php",
-            "time": "2019-08-25T18:03:58+00:00"
+            "time": "2019-09-03T00:21:11+00:00"
         },
         {
             "name": "vitexsoftware/ease-html",
@@ -314,12 +313,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/VitexSoftware/ease-html.git",
-                "reference": "72d788541939021ae92083b023ae417caa5244fd"
+                "reference": "78d6106eab45a3c0ba338628a46b2ad9063a6339"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/VitexSoftware/ease-html/zipball/72d788541939021ae92083b023ae417caa5244fd",
-                "reference": "72d788541939021ae92083b023ae417caa5244fd",
+                "url": "https://api.github.com/repos/VitexSoftware/ease-html/zipball/78d6106eab45a3c0ba338628a46b2ad9063a6339",
+                "reference": "78d6106eab45a3c0ba338628a46b2ad9063a6339",
                 "shasum": ""
             },
             "require": {
@@ -346,7 +345,7 @@
                 }
             ],
             "description": "Set of HTML rendering objects",
-            "time": "2019-08-25T22:10:31+00:00"
+            "time": "2019-09-05T20:52:02+00:00"
         },
         {
             "name": "vitexsoftware/ease-twbootstrap4",
@@ -354,12 +353,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/VitexSoftware/ease-twbootstrap4.git",
-                "reference": "5a85a6acaf0d2d151c3aae3dec8361b2899ffa19"
+                "reference": "9a750a06f25fe90879fa3bf5d4bbe6f2cc6e6a51"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/VitexSoftware/ease-twbootstrap4/zipball/5a85a6acaf0d2d151c3aae3dec8361b2899ffa19",
-                "reference": "5a85a6acaf0d2d151c3aae3dec8361b2899ffa19",
+                "url": "https://api.github.com/repos/VitexSoftware/ease-twbootstrap4/zipball/9a750a06f25fe90879fa3bf5d4bbe6f2cc6e6a51",
+                "reference": "9a750a06f25fe90879fa3bf5d4bbe6f2cc6e6a51",
                 "shasum": ""
             },
             "require": {
@@ -385,7 +384,7 @@
                 }
             ],
             "description": "Set of Twitter Bootstrap 4 rendering objects",
-            "time": "2019-08-18T21:06:57+00:00"
+            "time": "2019-09-05T13:09:05+00:00"
         },
         {
             "name": "vitexsoftware/ease-twbootstrap4-widgets",
